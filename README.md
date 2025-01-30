@@ -18,7 +18,7 @@ This project analyzes the distribution of vehicle equipment across various depar
 Screenshots of the dashboard are available in `visuals/`.  
 
 ## 📂 Project Structure  
-- Data/: Montgomery_Fleet_Equipment_Inventory_FA_PART_1_END.XLSX(data) 
+- Montgomery_Fleet_Equipment_Inventory_FA_PART_1_END.XLSX(data) 
 - scripts/: Power BI or Python scripts  
 - visuals/: Dashboard images  
 
