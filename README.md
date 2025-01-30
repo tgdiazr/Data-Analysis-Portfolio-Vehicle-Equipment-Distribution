@@ -15,7 +15,7 @@ This project analyzes the distribution of vehicle equipment across various depar
 3. Are vehicles optimized for public safety departments?  
 
 ## 📈 Visualizations  
-Screenshots of the dashboard are available in `visuals/`.  
+Screenshots of the dashboard are available in `visualization/`.  
 
 ## 📂 Project Structure  
 - Montgomery_Fleet_Equipment_Inventory_FA_PART_1_END.XLSX(data) 
