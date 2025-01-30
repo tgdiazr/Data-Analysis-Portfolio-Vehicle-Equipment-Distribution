@@ -19,6 +19,6 @@ Screenshots of the dashboard are available in `visuals/`.
 
 ## 📂 Project Structure  
 - Montgomery_Fleet_Equipment_Inventory_FA_PART_1_END.XLSX(data) 
-- scripts/: Power BI or Python scripts  
+- scripts/: Power BI   
 - visuals/: Dashboard images  
 
